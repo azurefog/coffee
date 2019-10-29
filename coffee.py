@@ -1,6 +1,6 @@
-from Utils.coffee_station.human import Human
-from Utils.coffee_station.supplies import Supplies
-from Utils.coffee_station.equipment import Equipment
+from coffee_station.human import Human
+from coffee_station.supplies import Supplies
+from .coffee_station.equipment import Equipment
 
 
 def make_coffee(how_much=1000, ratio=15, flavoring=False):
