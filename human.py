@@ -1,5 +1,5 @@
-from Utils.coffee_station.supplies import Supplies
-from Utils.coffee_station.equipment import Equipment
+from coffee_station.supplies import Supplies
+from coffee_station.equipment import Equipment
 
 
 class Human:
