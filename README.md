@@ -1,8 +1,8 @@
 # coffee
 How to make coffee at work
 
-import make_coffee from coffee.py
-function make_coffee() uses volume of coffee to make and the water to coffee ratio you would like to achieve.
+import make_coffee from coffee.py - 
+Function make_coffee() uses volume of coffee to make and the water to coffee ratio you would like to achieve.
 ex: make_coffee(1000, 15)
 
 Fill Kettle with 1000 milliliters
