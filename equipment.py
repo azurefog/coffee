@@ -1,4 +1,4 @@
-from Utils.coffee_station.supplies import Supplies
+from coffee_station.supplies import Supplies
 
 
 class Equipment:
